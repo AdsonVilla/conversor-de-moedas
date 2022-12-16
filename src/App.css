@@ -1,0 +1,14 @@
+.App {
+  margin: auto;
+  max-width: 900px;
+}
+
+.row {
+  display: flex;
+  margin-top: 20px;
+  justify-content: space-around;
+}
+
+h1 {
+  text-align: center;
+}
