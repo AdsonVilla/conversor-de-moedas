@@ -20,4 +20,5 @@ O projeto foi feito utilizando vite (https://vitejs.dev/) para a criação da p�
 - Adicionar opções de moedas para converter. Ex: "lista de moedas" para "lista de moedas"
 - De acordo com a seleção, realizar a conversão.
 
-![image](https://user-images.githubusercontent.com/105760278/208161629-1cd270b9-1ea3-44c0-a0da-4586df218ecd.png)
+![image](https://user-images.githubusercontent.com/105760278/208162138-a4cade82-81a1-4ef2-9038-bed71b895138.png)
+
