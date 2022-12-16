@@ -3,7 +3,7 @@
 Projeto contendo conversores de moedas, utilizando uma API de conversão, levando em consideração as cotações atuais.
 O projeto foi feito utilizando vite (https://vitejs.dev/) para a criação da página em react.
 
-## Observações
+## Observações (terminal)
 - npm start (instalações de pacotes e node_modules);
 - npm run dev (rodar a aplicação)
 
